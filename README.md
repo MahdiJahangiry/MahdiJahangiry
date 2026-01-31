@@ -59,3 +59,9 @@ I am a researcher bridging the gap between **System Administration** and **Manag
   
   <img src="https://github-readme-stats.vercel.app/api?username=MahdiJahangiry&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
 </div>
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MahdiJahangiry&theme=radical&no-frame=true&column=7" width="100%" />
+</div>
