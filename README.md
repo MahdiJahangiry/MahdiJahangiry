@@ -46,7 +46,6 @@ I am a researcher bridging the gap between **System Administration** and **Manag
 | **Project Name** | **Status / Description** | **Tech Stack** |
 | :--- | :--- | :--- |
 | **Minimal Hyperledger Network for SCF** | **[In Progress]**<br>Developing a minimal, scalable **Hyperledger Fabric** network supporting multiple Supply Chains for Financial use cases. Focused on optimized channel configuration and chaincode efficiency. | ![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?logo=hyperledger&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
-| **Professional Thesis Template (Uni Kashan)** | **[Released]**<br>A comprehensive **LaTeX Beamer template** tailored for academic thesis presentations. Optimized for Persian (XePersian) with custom TikZ graphics. | ![LaTeX](https://img.shields.io/badge/-LaTeX-47A141?logo=latex&logoColor=white) ![Beamer](https://img.shields.io/badge/-Beamer-333333?logo=latex&logoColor=white) |
 
 ---
 
