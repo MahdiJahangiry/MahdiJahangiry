@@ -54,24 +54,5 @@ I am a researcher bridging the gap between **System Administration** and **Manag
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiJahangiry&theme=radical&hide_border=true" height="160" alt="streak stats" />
-  
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=MahdiJahangiry&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
 </div>
----
-### 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahdiJahangiry&theme=radical&no-frame=true&column=7" width="100%" />
-</div>
----
-### 🏆 Achievements & Activity
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahdiJahangiry&theme=radical&no-frame=true&margin-w=15&row=1" width="100%" alt="trophies" />
-  
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiJahangiry&theme=radical&hide_border=true" height="160" alt="streak stats" />
-</div>
